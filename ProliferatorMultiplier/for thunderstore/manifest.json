@@ -1,0 +1,9 @@
+{
+    "name": "ProliferatorMultiplier",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/GoToNightmare/DSP-ProliferatorMultiplier",
+    "description": "This mod let you multiply effect of proliferator.",
+    "dependencies": [
+        "xiaoye97-BepInEx-5.4.5"
+    ]
+}
