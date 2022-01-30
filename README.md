@@ -9,6 +9,7 @@ This mod let you multiply effect of proliferator.
 
 ### Features
 - Allows you to increase proliferator "Extra Products" or "Production Speedup" by multiplying by value from config.
+- **THIS MOD COULD TRIGGER DSP CHEAT DETECTION SYSTEM IF YOU SET `ProliferatorMultForAdditionalProduction` TOO HIGH**
 
 ### Installation(ModManager)
 1. Click on install with ModManager and follow the steps.
