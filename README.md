@@ -11,7 +11,7 @@ This mod let you multiply effect of proliferator.
 - Allows you to increase proliferator "Extra Products" or "Production Speedup" by multiplying by value from config.
 
 ### Important
-- **THIS MOD COULD TRIGGER DSP CHEAT DETECTION SYSTEM IF YOU SET VALUES TOO HIGH AND PRODUCE TOO MUCH TRACKING DSP-TRACKED GODS**
+- **THIS MOD COULD TRIGGER DSP CHEAT DETECTION SYSTEM IF YOU SET VALUES TOO HIGH AND PRODUCE TOO MUCH DSP-TRACKED GODS**
 - **NOT RECOMMENDED TO PROLIFERATE UNIVERSE MATRIX FOR LABS IN RESEARCH MODE**
 
 ### Installation(ModManager)
