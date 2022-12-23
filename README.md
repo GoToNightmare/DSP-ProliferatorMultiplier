@@ -1,4 +1,3 @@
-@@ -1,41 +0,0 @@
 # ProliferatorMultiplier
 
 ## Dyson Sphere Program: ProliferatorMultiplier   
