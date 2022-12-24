@@ -33,5 +33,8 @@ If BepInEx doesn't exist, download and install from [here](https://docs.bepinex.
 
 ### Updates
 
-#### V0.1.0
+#### V1.0.0
+- Updated for patch
+
+#### V0.0.1
 - Initial
