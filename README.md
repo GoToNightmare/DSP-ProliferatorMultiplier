@@ -1,4 +1,4 @@
-# ProliferatorMultiplier
+# ProliferatorMultiplier (BepInEx 5.4.21)
 
 ## Dyson Sphere Program: ProliferatorMultiplier   
 This mod let you multiply effect of proliferator.
@@ -36,6 +36,18 @@ If BepInEx doesn't exist, download and install from [here](https://docs.bepinex.
 - If you have any mod ideas, you can make suggestions [here](https://github.com/GoToNightmare/DSP-ProliferatorMultiplier/issues)
 
 ### Updates
+
+#### V1.0.3
+- Fixes BepInEx 6.0.0-pre.1 NOT SUPPORTED, USE OLD ONE => BepInEx 5.4.21
+
+#### V1.0.2
+- Fixes
+
+#### V1.0.1
+- Fixes
+
+#### V1.0.0
+- Updated for patch
 
 #### V0.0.1
 - Initial
