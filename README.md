@@ -1,6 +1,4 @@
-# ProliferatorMultiplier (BepInEx 5.4.21)
-
-## Dyson Sphere Program: ProliferatorMultiplier   
+## Dyson Sphere Program: ProliferatorMultiplier (BepInEx 5.4.21)
 This mod let you multiply effect of proliferator.
 
  <img src="https://user-images.githubusercontent.com/34166246/151697231-81a716d2-750b-4d27-9939-957a5c3f1274.png" />
