@@ -33,6 +33,15 @@ If BepInEx doesn't exist, download and install from [here](https://docs.bepinex.
 
 ### Updates
 
+#### V1.0.3
+- Fixes BepInEx 6.0.0-pre.1 NOT SUPPORTED, USE OLD ONE => BepInEx 5.4.21
+
+#### V1.0.2
+- Fixes
+
+#### V1.0.1
+- Fixes
+
 #### V1.0.0
 - Updated for patch
 
