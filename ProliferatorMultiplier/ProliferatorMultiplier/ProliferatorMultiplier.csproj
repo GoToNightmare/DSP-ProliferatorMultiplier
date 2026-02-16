@@ -32,6 +32,9 @@
         <ErrorReport>prompt</ErrorReport>
         <WarningLevel>4</WarningLevel>
     </PropertyGroup>
+    <PropertyGroup>
+      <PostBuildEvent>copy "C:\GitHub\BsgGameMod\BsgGameMod\bin\Debug\BsgGameMod.dll" "C:\Program Files (x86)\Steam\steamapps\common\Battlestar Galactica Deadlock\BepInEx\plugins\BsgGameMod.dll"</PostBuildEvent>
+    </PropertyGroup>
     <ItemGroup>
         <Compile Include="ProliferatorMultiplier.cs" />
         <Compile Include="Patch_Proliferator.cs" />
